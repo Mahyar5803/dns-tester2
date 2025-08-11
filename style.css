@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(to bottom, #0f172a, #1e293b);
+  font-family: sans-serif;
+}
+input, button {
+  outline: none;
+}
+.bg-white\/5 {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+.bg-white\/10 {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.bg-white\/6 {
+  background-color: rgba(255, 255, 255, 0.06);
+}
+.bg-white\/3 {
+  background-color: rgba(255, 255, 255, 0.03);
+}
